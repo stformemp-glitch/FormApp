@@ -1,0 +1,8 @@
+{
+  "name": "Copy of FormApp",
+  "description": "A futuristic, secure, and lightning-fast messaging platform inspired by WhatsApp, featuring real-time chat, group messaging, and status updates with a neon-dark aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

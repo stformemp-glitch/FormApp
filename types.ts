@@ -11,6 +11,7 @@ export interface User {
   lastSeen?: string;
   // New Fields
   birthDate?: string;
+  gender?: string;
   sexuality?: string;
   isVerified?: boolean;
   isAdmin?: boolean;
